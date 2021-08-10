@@ -1,5 +1,7 @@
 # Real-Time-Detection-of-ASL-Alphabets
 
+![A1](https://user-images.githubusercontent.com/74179721/128869014-05dced21-233a-40ad-b2f6-a3f353cacaea.jpg)
+
 ## Data
 ### Link to the dataset - https://www.kaggle.com/grassknoted/asl-alphabet 
 The dataset was taken from kaggle. 
